@@ -1,0 +1,30 @@
+後端輕鬆學 Youtube
+jr
+1. 語言
+2. 基礎網路
+3. 基礎資料庫
+4. CRUD
+6. 後端面試題
+7. 履歷/面試
+
+mid
+1. OS
+2. networking
+3. database
+4. clean architecture
+5. clean code
+6. data structure
+7. AI
+8. Tools
+9. proxy
+10. 各種資料庫
+11. 高可用基礎
+12. 環境搭建
+
+senior
+1. System Design
+2. Case Study
+3. 網路進階(原理)
+4. 資料庫進階(原理)
+5. 高可用進階
+6. 雲端環境
